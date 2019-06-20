@@ -19,7 +19,7 @@
     "@babel/core": "^7.1.2",
     "@callstack/eslint-config": "^6.0.0",
     "@release-it/conventional-changelog": "^1.1.0",
-    "@types/react": "^16.7.11",
+    "@types/react": "^16.8.21",
     "@types/react-test-renderer": "^16.0.3",
     "@typescript-eslint/eslint-plugin": "^1.10.2",
     "babel-jest": "^24.7.1",
